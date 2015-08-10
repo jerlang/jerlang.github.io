@@ -179,12 +179,16 @@ nav ul li:hover, nav ul li.active {
     padding-top: 140px;
 }
 
+#footer,
+#footer a {
+  color: #2e2e2e;
+}
 
 #footer {
   padding: 8px 0;
   min-height:0;
   text-align:center;
-  background-color:#2e2e2e;
+  background-color:#e2e2e2;
   background-image:none;
 }
 #footer .container p { font-size:13px; margin:0; }
