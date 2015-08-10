@@ -3,3 +3,11 @@
 {% include css/base.css %}
 {% include css/skeleton.css %}
 {% include css/main.css %}
+
+th {
+  font-weight: bold;
+}
+
+th, td {
+  padding: 0.5em;
+}

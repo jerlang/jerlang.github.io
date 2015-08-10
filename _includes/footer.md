@@ -1,8 +1,3 @@
-
-
-Design by Tim O'Brien [t413.com](http://t413.com/)
+Content is &copy; 2015 Constantin Rack and licensed under [cc-by-sa 3.0](http://creativecommons.org/licenses/by-sa/3.0/).
 &mdash;
-[SinglePaged theme](https://github.com/t413/SinglePaged)
-&mdash;
-this site is [open source]({{ site.source_link }})
-
+[SinglePaged theme](https://github.com/t413/SinglePaged) by [Tim O'Brien](http://t413.com/)
